@@ -1,0 +1,1 @@
+<?php global $■;if(is_array($■))extract($■)?><header><h1>Just an example header</h1></header>

@@ -1,0 +1,1 @@
+<?php global $■;if(is_array($■))extract($■)?><main><p>Main content</p></main>

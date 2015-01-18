@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "verstat": "^3.10.0",
+    "verstat-plugin-jade": "^1.4.0",
+    "verstat-plugin-watch": "^1.0.0"
+  }
+}
